@@ -1,0 +1,2 @@
+# Exported notebook: do not count it as the repository language
+*.html linguist-generated=true
