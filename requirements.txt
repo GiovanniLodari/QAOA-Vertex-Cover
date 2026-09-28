@@ -1,0 +1,14 @@
+networkx
+numpy
+matplotlib
+scipy
+rich
+tqdm
+ipython
+ipykernel
+ipywidgets
+pennylane
+qiskit
+qiskit-aer
+qiskit-ibm-runtime
+python-dotenv

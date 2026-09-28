@@ -1,0 +1,10 @@
+.env
+venv/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Checkpoint dei calcoli (si rigenerano eseguendo il notebook)
+cache/
+data/*.pkl
